@@ -5,13 +5,13 @@ Day 1 <br>
 -HTML Boilerplate <br><br>
 Day 2 <br>
 -Lists in HTML <br>
-  -Ordered List <br>
-  -Unordered List<br>
+  &nbsp;-Ordered List <br>
+  &nbsp;-Unordered List<br>
 -HTML Attributes<br>
-  -Anchor Tag<br>
-  -Image Tag<br>
-  -Next Line(Break Line)<br>
-  -Bold<br>
-  -Italic<br>
-  -Underline<br>
+  &nbsp;-Anchor Tag<br>
+  &nbsp;-Image Tag<br>
+  &nbsp;-Next Line(Break Line)<br>
+  &nbsp;-Bold<br>
+  &nbsp;-Italic<br>
+  &nbsp;-Underline<br>
 -Comments in HTML<br>
