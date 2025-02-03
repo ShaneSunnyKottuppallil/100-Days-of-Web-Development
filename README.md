@@ -22,15 +22,7 @@ Day 3<br>
 -Semantic Markup<br>
 &nbsp;&nbsp;SEO<br>
 -Semantic Tags<br>
-&nbsp;&nbsp;header<br>
-&nbsp;&nbsp;main<br>
-&nbsp;&nbsp;footer<br>
-&nbsp;&nbsp;nav<br>
-&nbsp;&nbsp;section<br>
-&nbsp;&nbsp;article<br>
-&nbsp;&nbsp;aside<br>
+&nbsp;&nbsp;header, main, footer, nav<br>
+&nbsp;&nbsp;section, article, aside<br>
 -HTML Entities<br>
-&nbsp;&nbsp;Space<br>
-&nbsp;&nbsp;Lesser Than<br>
-&nbsp;&nbsp;Greater Than<br>
-&nbsp;&nbsp;Quotation<br><br>
+&nbsp;&nbsp;Space, Lesser Than, Greater Than, Quotation<br><br>
