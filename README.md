@@ -26,3 +26,25 @@ Day 3<br>
 &nbsp;&nbsp;section, article, aside<br>
 -HTML Entities<br>
 &nbsp;&nbsp;Space, Lesser Than, Greater Than, Quotation<br><br>
+Day 4<br>
+-Emmets in HTML<br>
+&nbsp;&nbsp;Child Emmet, Siblings Emmet, Multiplication Emmet.<br>
+-Tables in HTML<br>
+&nbsp;&nbsp;table, tr, td, th.<br>
+-Semantics in Table<br>
+&nbsp;&nbsp;thead, tbody, tfoot.<br>
+&nbsp;&nbsp;Colspan and Rowspan Attributes.<br>
+-Forms in HTML<br>
+&nbsp;&nbsp;Input elements<br>
+&nbsp;&nbsp;&nbsp;&nbsp;text, password, number, time, color, button<br>
+&nbsp;&nbsp;Placeholder attributes<br>
+&nbsp;&nbsp;Labels<br>
+&nbsp;&nbsp;Button element<br>
+&nbsp;&nbsp;&nbsp;&nbsp;submit, button, reset.<br><br>
+
+
+
+
+
+
+
