@@ -41,6 +41,15 @@ Day 4<br>
 &nbsp;&nbsp;Labels<br>
 &nbsp;&nbsp;Button element<br>
 &nbsp;&nbsp;&nbsp;&nbsp;submit, button, reset.<br><br>
+Day 5<br>
+-Name Attribute<br>
+-Checkbox Attribute<br>
+-Radio Element<br>
+-Select Element<br>
+-Range Element<br><br>
+
+
+
 
 
 
