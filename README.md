@@ -1,89 +1,86 @@
-# Web-Development<br>
-Day 1 <br>
--HTML Basics <br>
--Paragraph, Heading, Image, Bold Tags in HTML <br>
--HTML Boilerplate <br><br>
-Day 2 <br>
--Lists in HTML <br>
-  &nbsp;&nbsp;Ordered List <br>
-  &nbsp;&nbsp;Unordered List<br>
--HTML Attributes<br>
-  &nbsp;&nbsp;Anchor Tag<br>
-  &nbsp;&nbsp;Image Tag<br>
-  &nbsp;&nbsp;Next Line(Break Line)<br>
-  &nbsp;&nbsp;Bold, Italic, Underline<br>
--Comments in HTML<br><br>
-Day 3<br>
--Inline vs Block Elements<br>
-&nbsp;&nbsp;Div Element<br>
-&nbsp;&nbsp;Span Element<br>
-&nbsp;&nbsp;HR Tag<br>
--Subscript, Superscript<br>
--Semantic Markup<br>
-&nbsp;&nbsp;SEO<br>
--Semantic Tags<br>
-&nbsp;&nbsp;header, main, footer, nav<br>
-&nbsp;&nbsp;section, article, aside<br>
--HTML Entities<br>
-&nbsp;&nbsp;Space, Lesser Than, Greater Than, Quotation<br><br>
-Day 4<br>
--Emmets in HTML<br>
-&nbsp;&nbsp;Child Emmet, Siblings Emmet, Multiplication Emmet.<br>
--Tables in HTML<br>
-&nbsp;&nbsp;table, tr, td, th.<br>
--Semantics in Table<br>
-&nbsp;&nbsp;thead, tbody, tfoot.<br>
-&nbsp;&nbsp;Colspan and Rowspan Attributes.<br>
--Forms in HTML<br>
-&nbsp;&nbsp;Input elements<br>
-&nbsp;&nbsp;&nbsp;&nbsp;text, password, number, time, color, button<br>
-&nbsp;&nbsp;Placeholder attributes<br>
-&nbsp;&nbsp;Labels<br>
-&nbsp;&nbsp;Button element<br>
-&nbsp;&nbsp;&nbsp;&nbsp;submit, button, reset.<br><br>
-Day 5<br>
--Name Attribute<br>
--Checkbox Attribute<br>
--Radio Element<br>
--Select Element<br>
--Range Element<br><br>
+# Web Development - 100 Days Challenge 🚀  
 
-# Day 6 - CSS Basics  
-
-## Getting Started with CSS  
+## Day 1 - HTML Basics  
+- HTML Introduction  
+- Paragraph, Heading, Image, Bold Tags  
+- HTML Boilerplate  
 <br>  
 
-## How to Include CSS in HTML  
-- Inline Styles  
-- Internal Stylesheet  
-- External Stylesheet  
+## Day 2 - Lists & Attributes in HTML  
+- Lists in HTML  
+  - Ordered List  
+  - Unordered List  
+- HTML Attributes  
+  - Anchor Tag  
+  - Image Tag  
+  - Next Line (Break Line)  
+  - Bold, Italic, Underline  
+- Comments in HTML  
 <br>  
 
-## Colors in CSS  
+## Day 3 - HTML Elements & Semantic Markup  
+- Inline vs Block Elements  
+  - Div Element  
+  - Span Element  
+  - HR Tag  
+- Subscript & Superscript  
+- Semantic Markup  
+  - SEO  
+- Semantic Tags  
+  - header, main, footer, nav  
+  - section, article, aside  
+- HTML Entities  
+  - Space, Lesser Than, Greater Than, Quotation  
+<br>  
+
+## Day 4 - Emmets, Tables & Forms in HTML  
+- Emmets in HTML  
+  - Child Emmet, Sibling Emmet, Multiplication Emmet  
+- Tables in HTML  
+  - table, tr, td, th  
+- Table Semantics  
+  - thead, tbody, tfoot  
+  - Colspan & Rowspan Attributes  
+- Forms in HTML  
+  - Input Elements  
+    - text, password, number, time, color, button  
+  - Placeholder Attributes  
+  - Labels  
+  - Button Element  
+    - submit, button, reset  
+<br>  
+
+## Day 5 - HTML Form Elements  
+- Name Attribute  
+- Checkbox Attribute  
+- Radio Element  
+- Select Element  
+- Range Element  
+<br>  
+
+## Day 6 - CSS Basics  
+### Getting Started with CSS  
+- Introduction to CSS  
+- How to Include CSS in HTML  
+  - Inline Styles  
+  - Internal Stylesheet  
+  - External Stylesheet  
+<br>  
+
+### Colors in CSS  
 - Named Colors  
 - Hexadecimal (`#RRGGBB`)  
 - RGB (`rgb(r, g, b)`)  
 - HSL (`hsl(h, s%, l%)`)  
 <br>  
 
-## Text Properties in CSS  
+### Text Properties in CSS  
 - Text Alignment (`text-align`)  
 - Font Weight (`font-weight`)  
 - Text Decoration (`text-decoration`)  
 - Line Height (`line-height`)  
 - Letter Spacing (`letter-spacing`)  
 - Font Size (`font-size`)  
-<br><br>  
+<br>  
 
 Stay tuned for more updates! 🚀  
-
-
-
-
-
-
-
-
-
-
-
