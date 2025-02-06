@@ -48,6 +48,36 @@ Day 5<br>
 -Select Element<br>
 -Range Element<br><br>
 
+# Day 6 - CSS Basics  
+
+## Getting Started with CSS  
+<br>  
+
+## How to Include CSS in HTML  
+- Inline Styles  
+- Internal Stylesheet  
+- External Stylesheet  
+<br>  
+
+## Colors in CSS  
+- Named Colors  
+- Hexadecimal (`#RRGGBB`)  
+- RGB (`rgb(r, g, b)`)  
+- HSL (`hsl(h, s%, l%)`)  
+<br>  
+
+## Text Properties in CSS  
+- Text Alignment (`text-align`)  
+- Font Weight (`font-weight`)  
+- Text Decoration (`text-decoration`)  
+- Line Height (`line-height`)  
+- Letter Spacing (`letter-spacing`)  
+- Font Size (`font-size`)  
+<br><br>  
+
+Stay tuned for more updates! 🚀  
+
+
 
 
 
