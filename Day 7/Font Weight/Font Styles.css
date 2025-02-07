@@ -1,0 +1,28 @@
+#p1{
+font-weight: 100;
+text-decoration: none;
+}
+#p2{
+    text-decoration: underline;
+    font-weight: 400;
+}
+#p3{
+    font-weight: bold;
+    text-decoration: overline;
+    /* LINE HEIGHT OF THE LINE  */
+    line-height: 8;
+}
+#p4{
+    font-weight: bolder;
+    text-decoration: line-through;
+    /* Letter Spacing  */
+    letter-spacing: 5px;
+}
+#p5{
+    font-weight: lighter;
+    text-decoration: red dotted underline;
+}
+#p6{
+    font-weight: bolder;
+    text-decoration:rgb(58, 58, 0) dashed underline;
+}
