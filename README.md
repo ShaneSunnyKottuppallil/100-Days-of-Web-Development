@@ -81,6 +81,24 @@
 - Line Height (`line-height`)  
 - Letter Spacing (`letter-spacing`)  
 - Font Size (`font-size`)  
+<br>
+
+## Day 7 - Typography and Units in CSS  
+### Typography in CSS  
+- Font Weight (`font-weight`)  
+- Text Decoration (`text-decoration`)  
+  - Underline, Overline, Line-through, None  
+- Line Height (`line-height`)  
+- Letter Spacing (`letter-spacing`)  
+- Font Family (`font-family`)  
 <br>  
+
+### Units in CSS  
+- Absolute Units  
+  - Pixels (`px`), Points (`pt`)  
+- Relative Units  
+  - Percentage (`%`), EM (`em`), REM (`rem`)  
+<br>  
+
 
 Stay tuned for more updates! 🚀  
