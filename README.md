@@ -101,4 +101,21 @@
 <br>  
 
 
+## Day 8 - CSS Selectors  
+
+### Basic Selectors  
+- **Element Selector** (`element {}`)  
+- **Universal Selector** (`* {}`)  
+- **ID Selector** (`#idName {}`)  
+- **Class Selector** (`.className {}`)  
+<br>  
+
+### Combinators & Advanced Selectors  
+- **Descendant Selector** (`parent child {}`)  
+- **Adjacent Sibling Selector** (`element1 + element2 {}`)  
+- **Child Combinator** (`parent > child {}`)  
+- **Attribute Selector** (`[attribute=value] {}`)  
+<br>  
+
+
 Stay tuned for more updates! 🚀  
