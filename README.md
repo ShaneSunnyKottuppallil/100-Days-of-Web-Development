@@ -117,5 +117,32 @@
 - **Attribute Selector** (`[attribute=value] {}`)  
 <br>  
 
+## Day 9 - CSS Advanced Selectors  
+
+### Pseudo-classes  
+- `:hover` – Applies styles when the user hovers over an element.  
+- `:active` – Styles elements when they are being clicked.  
+- `:checked` – Targets checked checkboxes or radio buttons.  
+- `:nth-of-type(n)` – Selects the nth occurrence of a specific element type within its parent.  
+<br>  
+
+### Pseudo-elements  
+- `::first-letter` – Styles the first letter of a text block.  
+- `::first-line` – Styles the first line of a text block.  
+- `::selection` – Customizes the appearance of highlighted text.  
+<br>  
+
+### Selector Specificity  
+- Understanding how CSS rules are prioritized.  
+- Importance of inline styles, ID selectors, and class selectors.  
+- `!important` – Used to override all other styles (use with caution).  
+<br>  
+
+### Inheritance in CSS  
+- Some CSS properties (e.g., `color`, `font-family`) are inherited by default.  
+- Other properties (e.g., `margin`, `padding`, `border`) are **not** inherited.  
+- `inherit`, `initial`, and `unset` values to control inheritance behavior.  
+<br>  
 
 Stay tuned for more updates! 🚀  
+ 
