@@ -1,0 +1,84 @@
+/* Hover Pseudo Class */
+button:hover{
+    background-color: black;
+    color: white;
+}
+h3:hover{
+    text-decoration: none;
+}
+
+/* Active Pseudo Class */
+button:active{
+    background-color: blueviolet;
+    color: pink;
+}
+input[type="radio"]:checked label  {
+color: blue;
+font-weight: bold;
+}
+h1::first-letter{
+    color: rgb(255, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Universal Selector  */
+*{
+    font-family: 'Courier New';
+}
+/* Element Selector  */
+h3{
+    color: purple;
+}
+/* ID Selector  */
+#login{
+    background-color: yellowgreen;
+}
+/* Class Selector  */
+.follow{
+    color: rgb(255, 255, 255);
+}
+
+/* Descendant Selectors */
+p a{
+    background-color: purple;
+}
+
+/* Adjacent Sibling Combinator */
+p+h3{
+    text-decoration: underline rgb(255, 0, 43);
+}
+
+/* Child Combinator */
+div > input{
+    background-color: darkgray;
+}
+
+/* Attribute Selector */
+input[type="text"]{
+    color:rgb(128, 255, 0);
+}
+input[placeholder="username"]{
+    color:rgb(128, 255, 0);
+}
+input[type="password"]{
+    color:rgb(255, 123, 0);
+}
+
+/* Placeholder Text Color  */
+input::placeholder{color: brown;}
