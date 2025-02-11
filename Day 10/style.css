@@ -1,0 +1,21 @@
+div{
+    height: 200px;
+    width: 600px;
+    text-align: justify;
+    background-color: lightgreen;
+    /* border-width: 5px;
+    border-color: red;
+    border-style: solid; */
+    border: red solid 10px;
+    border-radius: 10% 30%;
+    padding: 50px 50px 50px 50px;
+    margin: 20px;
+}
+h1{
+    border: 5px dashed rgb(38, 0, 255);
+}
+button{
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px 10px;
+}
