@@ -142,7 +142,39 @@
 - Some CSS properties (e.g., `color`, `font-family`) are inherited by default.  
 - Other properties (e.g., `margin`, `padding`, `border`) are **not** inherited.  
 - `inherit`, `initial`, and `unset` values to control inheritance behavior.  
+<br>
+
+
+## Day 11 - CSS Display & Units  
+
+### Inline vs Block Elements  
+- Block elements take full width and start on a new line.  
+- Inline elements take only as much width as needed and stay in line with other elements.  
+<br>  
+
+### The `display` Property  
+- `block` → Takes full width (e.g., `<div>`, `<p>`)  
+- `inline` → Takes only as much width as needed (e.g., `<span>`, `<a>`)  
+- `inline-block` → Behaves like `inline` but allows setting width & height  
+- `none` → Hides the element from the page  
+<br>  
+
+### CSS Units  
+#### `%` Unit  
+- Relative to the parent element's size.  
+
+#### `em` Unit  
+- Relative to the font size of the parent element.  
+
+#### `rem` Unit  
+- Relative to the root (`<html>`) font size.  
+<br>  
+
+### Display Inline for List Elements  
+- By default, `<li>` elements are block-level.  
+- Setting `display: inline;` arranges them in a horizontal line instead of stacking vertically.  
 <br>  
 
 Stay tuned for more updates! 🚀  
+
  
