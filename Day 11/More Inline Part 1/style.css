@@ -1,0 +1,11 @@
+span{
+    background-color: yellow;
+    /* Height and Width wont Apply on Span(Inline Elment)  */
+    height: 200px; 
+    width: 50%;
+    /* Padding wil apply on all Sides but will overlap for top and bottom  */
+    padding: 20px;
+
+    /* Margin will apply only on Left and Right and wont even apply on Top and Bottom  */
+    margin: 40px;
+}
