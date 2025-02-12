@@ -1,0 +1,40 @@
+.box{
+    height: 100px;
+    width: 300px;
+    background-color: pink;
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+    align-content: center;
+
+    /* animation-name: fontanim;
+    animation-duration: 3s;
+    animation-timing-function:ease;
+    animation-delay: 1s;
+    animation-direction:alternate-reverse;
+    animation-iteration-count: infinite;
+    animation-name: colorani;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-delay: 0s; */
+
+    animation: fontanim 3s alternate-reverse 1s ease infinite ,colorani 10s alternate 0s ease infinite ;
+}
+@keyframes fontanim {
+    0%{
+        font-size: 20px;
+    }
+    100%{
+        font-size: 40px;
+    }
+}
+@keyframes colorani {
+    from{
+        background-color: blue;
+    }
+    to{
+        background-color: red;
+        color: white;
+    }
+}

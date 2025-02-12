@@ -1,0 +1,11 @@
+header{
+    text-align: right;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: greenyellow;
+    border: 3px solid black;
+    margin: 5px;
+    display: inline-block;
+}

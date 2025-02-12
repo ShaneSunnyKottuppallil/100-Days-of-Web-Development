@@ -1,0 +1,320 @@
+body{
+    background-image: url(newback.jpeg);
+    height: 100vh;
+    letter-spacing: 1.2px;
+    font-weight: 450;
+}
+
+
+
+.contdiv{
+background-color: rgb(180, 179, 179);
+height: 2em;
+width: 2em;
+border: 2px solid rgb(44, 44, 44);
+border-radius: 50%;
+box-shadow: 0px 0px 10px rgb(224, 224, 224);
+margin: 1em;
+text-align: center;
+align-content: center;
+position: fixed;
+bottom: 1em;
+right: 1em;
+padding: 0.7em 0.7em;
+}
+#fircontdiv{
+    margin-bottom:6em ;
+}
+.contdiv:hover{
+    background-color: rgb(116, 109, 109);
+    border: 2px solid rgb(214, 214, 214);
+    box-shadow: 2px 2px 10px rgb(0, 0, 0);
+}
+
+
+
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+#propic{
+    border-radius: 50%;
+    border: 2px solid orange;
+    box-shadow: -8px 8px 10px rgb(0, 0, 0);
+    height:200px;
+    width:200px;
+    transition: all 0.3s;
+}
+#propic:hover{
+    box-shadow: -11px 11px 15px rgb(0, 0, 0);
+}
+
+.hdr{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.sect-class{
+    line-height: 2;
+    
+}
+
+.sect-div{
+    background-color: azure;
+    
+    color: black;
+}
+.h1cls{
+    text-align: center;
+    text-shadow: 1px 1px 3px rgb(0, 0, 0), 0 0 1em rgb(0, 0, 0), 0 0 0.2em rgb(255, 255, 255);
+    transition: all 0.5s;
+}
+.h1cls:hover{
+    color: rgb(213, 213, 214);
+}
+.allsect{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 4em;
+}
+.h2cls{
+    text-decoration: underline;
+    text-align: center;
+}
+.prosum{
+    margin: 2em;
+    justify-self: center;
+    width: 45em;
+    height: 30em;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    box-shadow: -5px 5px 15px rgb(0, 0, 0) ;
+    background-color: rgb(180, 175, 175);
+    transition: all 0.5s;
+}
+.prosum:hover{
+    background-color:rgb(70, 69, 69) ;
+    color: white;
+    border: 2px solid rgb(255, 255, 255);
+    box-shadow: -5px 5px 15px rgb(255, 255, 255) ;
+}
+
+#prosumid{
+    width: 80em;
+    height: 20em;
+}
+
+
+
+
+
+
+#list2{
+display:block;
+
+}
+.educa{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    text-align: center;
+    padding-left: 0%;
+}
+.edulogo{
+    height: 7em;
+    width: 7em;
+    align-self: center;
+}
+#eduid{
+    width: 60em;
+    height: 50em;
+}
+.certol{
+    list-style: none;
+    justify-items: center;
+    text-align: center;
+}
+.achi{
+    height: 36em;
+    width: 48em;
+}
+
+#list5in{
+    height: 48em;
+    width: 71em;
+    padding: 3em;
+}
+
+
+.certimg{
+    height: 16em;
+    width: 22em;
+}
+
+
+.int1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    list-style: none;
+    text-align: center;
+}
+.bfont{
+    font-size: 1.5em;
+}
+#list4{
+    height: 50em;
+    width: 100em;
+    margin-top: 2em;
+    margin-bottom:5em ;
+}
+#intlist{
+    width: 100em;
+    display: flex;
+}
+.intlicls{
+    width: 40em;
+    
+}
+.internallist{
+text-align: justify;
+}
+#dglobid{
+    height: 25em;
+    width: 17em;
+}
+
+
+p,li{
+    font-family: "Titillium Web", serif;
+}
+
+.parag{
+    margin-top: 1em;
+    margin-bottom: 3em;
+    margin-left:3em ;
+    margin-right: 5em;
+    text-align: justify;
+}
+.project{
+    
+    margin: 2em;
+    width: 80em;
+    padding-left: 3em;
+    padding-right: 6em;
+    height: 50em;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    box-shadow: -5px 5px 15px rgb(0, 0, 0) ;
+    background-color: rgb(180, 175, 175);
+    transition: all 0.5s;
+}
+.project:hover{
+    background-color:rgb(70, 69, 69) ;
+    border: 2px solid rgb(255, 255, 255);
+    box-shadow: -5px 5px 15px rgb(255, 255, 255) ;
+    color: white;
+}
+
+
+
+.ftr{
+    text-align: center;
+    color: #ffffff;
+    /* background-color:  #5f2c38; */
+}
+.ftrdiv{
+    line-height: 2.5;
+}
+.ulfoot{
+    text-align: left;
+    list-style: none;
+    display: flex;
+    margin-left: 39em;
+}
+.mailnumber{
+    justify-self: center;
+    text-align: justify;
+}
+.ulfoot li{
+    /* width: 7em; */
+    text-align: center;
+    border: 2px solid rgb(102, 102, 102);
+    border-radius: 30px;
+    box-shadow: -5px 5px 15px rgb(0, 0, 0);
+    transition: all 0.5s;
+    margin: 10px;
+    opacity: 0.7;
+    
+}
+.ulfoot li:hover{
+    border: 2px solid rgb(59, 59, 59);
+    box-shadow: 1px 1px 4px rgb(255, 255, 255);
+    background-color: rgb(20, 19, 19);
+    opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+.contact-right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contact-right form{
+    width: 80em;
+    height: 20em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+form input,form textarea{
+    width: 60%;
+    padding: 1em;
+    margin: 1em 0em;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 1em;
+    box-shadow: -5px 5px 15px rgb(0, 0, 0) ;
+    background-color: rgb(180, 175, 175);
+    transition: all 1s;
+}
+
+form input:hover,form textarea:hover{
+    background-color:rgb(70, 69, 69) ;
+    border: 2px solid rgb(255, 255, 255);
+    box-shadow: -5px 5px 15px rgb(255, 255, 255) ;
+    color: rgb(255, 255, 255);
+}
+form input::placeholder,form textarea::placeholder{
+    color: white;
+    font-weight: 600;
+}
+.btn2{
+    background-color: rgb(102, 102, 102);
+    color: white;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 1em;
+    padding: 0.8em 2em;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.btn2:hover{
+    box-shadow: 1px 1px 4px rgb(184, 184, 184);
+}
+
+
+

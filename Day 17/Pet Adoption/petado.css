@@ -1,0 +1,72 @@
+
+    h2{
+        color: rgb(116, 76, 24);
+    }
+    span{
+        color: rgb(116, 76, 24);
+    }
+    #pets{
+        display: flex;
+        justify-content: center;
+        justify-content: space-evenly;
+    }
+    .card{
+    
+        background-color: rgb(210, 243, 243);
+        width: 28rem;
+        height: 500px;
+        border: 2px solid black;
+        border-radius: 30px;  
+        box-shadow:3px 5px 10px black;
+        padding: 1em;
+    }
+    img{
+        width: 28em;
+        height: 15em;
+        border-radius: 30px;
+        align-self: center;
+    }
+    p{
+        text-align: justify;
+    }
+    h4{
+        text-align: end;
+        color: rgb(2, 107, 2);
+    }
+
+
+
+
+
+
+
+@media (max-width:430px){
+    h2{
+        margin: 0em 2em;
+        font-size: 0.75em;
+    }
+    h1{
+        margin: 0em 1em;
+        font-size: 1.5em;
+    }
+    #pets{
+        height: 60em;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .card{
+        width: 17rem;
+        height: 25em;
+    }
+    img{
+        width: 17em;
+        height: 9em;
+    }
+    p{
+        font-size: 0.7em;
+    }
+    h4{
+        font-size: 0.5em;
+    }
+    
+}

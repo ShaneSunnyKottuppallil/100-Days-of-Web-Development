@@ -1,0 +1,82 @@
+h1{
+    text-align: center;
+}
+#container1{
+    height: 500px;
+    width: 80%;
+    background-color: azure;
+    margin: 10px auto;
+    border: 2px solid black;
+    /* row */
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+#container2{
+    height: 500px;
+    width: 80%;
+    background-color: azure;
+    margin: 10px auto;
+    border: 2px solid black;
+    /* row */
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#container3{
+    height: 500px;
+    width: 80%;
+    background-color: azure;
+    margin: 10px auto;
+    border: 2px solid black;
+    /* row */
+    display: flex; 
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+}
+
+
+#container1 div{
+    width: 400px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+#container2 div{
+    width: 400px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+#container3 div{
+    width: 400px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+
+.vi{
+    background-color: violet;
+}
+.in{
+    background-color: indigo;
+}
+.bl{
+    background-color: blue;
+}
+.gr{
+    background-color: green;
+}
+.ye{
+    background-color: yellow;
+}
+.or{
+    background-color: orange;
+}
+.re{
+    background-color: red;
+}

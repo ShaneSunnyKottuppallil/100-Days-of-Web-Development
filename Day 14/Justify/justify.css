@@ -1,0 +1,144 @@
+h1{
+    text-align: center;
+}
+#container1{
+    height: 300px;
+    width: 80%;
+    background-color: azure;
+    margin: 10px auto;
+    border: 2px solid black;
+    /* row */
+    display: flex; 
+    flex-direction: row;
+    /* Justify Content  FLEX START*/
+    justify-content: flex-start;
+}
+#container2{
+    height: 300px;
+    width: 80%;
+    background-color: azure;
+    margin: 10px auto;
+    border: 2px solid black;
+    /* row */
+    display: flex; 
+    flex-direction: row;
+    /* Justify Content  FLEX END*/
+    justify-content: flex-end;
+}
+#container3{
+    height: 300px;
+    width: 80%;
+    background-color: azure;
+    margin: 10px auto;
+    border: 2px solid black;
+    /* row */
+    display: flex; 
+    flex-direction: row;
+    /* Justify Content  CENTER*/
+    justify-content: center;
+}
+#container4{
+    height: 300px;
+    width: 80%;
+    background-color: azure;
+    margin: 10px auto;
+    border: 2px solid black;
+    /* row */
+    display: flex; 
+    flex-direction: row;
+    /* Justify Content  SPACE BETWEEN*/
+    justify-content: space-between;
+}
+#container5{
+    height: 300px;
+    width: 80%;
+    background-color: azure;
+    margin: 10px auto;
+    border: 2px solid black;
+    /* row */
+    display: flex; 
+    flex-direction: row;
+    /* Justify Content  SPACE AROUND*/
+    justify-content: space-around;
+}
+#container6{
+    height: 300px;
+    width: 80%;
+    background-color: azure;
+    margin: 10px auto;
+    border: 2px solid black;
+    /* row */
+    display: flex; 
+    flex-direction: row;
+    /* Justify Content  SPACE EVENLY*/
+    justify-content: space-evenly;
+}
+
+
+#container1 div{
+    width: 100px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+#container2 div{
+    width: 100px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+#container3 div{
+    width: 100px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+#container4 div{
+    width: 100px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+#container5 div{
+    width: 100px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+#container6 div{
+    width: 100px;
+    height: 100px;
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+
+
+
+.vi{
+    background-color: violet;
+}
+.in{
+    background-color: indigo;
+}
+.bl{
+    background-color: blue;
+}
+.gr{
+    background-color: green;
+}
+.ye{
+    background-color: yellow;
+}
+.or{
+    background-color: orange;
+}
+.re{
+    background-color: red;
+}

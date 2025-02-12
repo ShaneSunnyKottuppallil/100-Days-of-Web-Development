@@ -1,0 +1,131 @@
+.circle1{
+    display: flex;
+    flex-direction: column;
+    height: 40px;
+    width: 40px;
+    top: 2em;
+    border-radius: 50%;
+    position: fixed;
+    background-color: rgb(139, 137, 137);
+    animation: firstball 5s ease-in infinite alternate ;
+    opacity: 80%;
+    z-index: -1;
+}
+#c2{
+    margin-top: 9em;
+    background-color:rgb(179, 177, 177);
+    animation: firstball 5s 1s ease-in infinite alternate ;
+}
+#c3{
+    margin-top: 14em;
+    background-color:rgb(228, 248, 248);
+    animation: firstball 5s 3s ease-in infinite alternate ;
+}
+@keyframes firstball{
+    to{
+        margin-top:50em;
+        margin-left: 100%;
+    }
+}
+
+
+.circle2{
+    opacity: 80%;
+    height: 40px;
+    width: 40px;
+    top: 2em;
+    border-radius: 50%;
+    position: fixed;
+    right: 1em;
+    background-color: #646464;
+    animation: firstballtwo 5s ease-in infinite alternate ;
+    z-index: -1;
+}
+
+#c5{
+    margin-top: 9em;
+    background-color:#b1afaf ;
+    animation: firstballtwo 5s 1s ease-in infinite alternate ;
+}
+#c6{
+    margin-top: 14em;
+    background-color:#2b2b2b;
+    animation: firstballtwo 5s 3s ease-in infinite alternate ;
+}
+
+
+@keyframes firstballtwo{
+    to{
+        margin-top:50em;
+        margin-right: 100%;
+    }
+}
+
+
+
+.circle3{
+    opacity: 80%;
+    height: 40px;
+    width: 40px;
+    top: 2em;
+    left: 15rem;
+    border-radius: 50%;
+    position: fixed;
+    background-color:  rgb(48, 47, 47);
+    animation: firstballthree 4s 1s ease-in infinite alternate ;
+    z-index: -1;
+}
+
+#c8{
+    left: 30rem;
+    background-color:rgb(87, 87, 87) ;
+    animation: firstballthree 4s 2s ease-in infinite alternate ;
+}
+#c9{
+    margin-top: 45rem;
+    background-color:rgb(150, 150, 150);
+    animation: firstballthree 4s 3s ease-in infinite alternate ;
+}
+
+
+@keyframes firstballthree{
+    to{
+        margin-top:50em;
+        margin-right: 100%;
+    }
+}
+
+
+
+
+.circle4{
+    opacity: 80%;
+    height: 40px;
+    width: 40px;
+    top: 2em;
+    right: 1rem;
+    border-radius: 50%;
+    position: fixed;
+    right: 1em;
+    background-color: #636363;
+    animation: firstballfour 4s 1s ease-in infinite alternate ;
+    z-index: -1;
+}
+
+#c11{
+    right: 15rem;
+    background-color:#6e6e6e ;
+    animation: firstballfour 4s 2s  ease-in infinite alternate ;
+}
+#c12{
+    right: 30rem;
+    background-color:#797979;
+    animation: firstballfour 4s 3s ease-in infinite alternate ;
+}
+
+
+@keyframes firstballfour{
+    to{
+        margin-top:50em;
+    }
+}

@@ -1,0 +1,65 @@
+
+<style>
+    .circle1{
+    display: flex;
+    flex-direction: column;
+    height: 40px;
+    width: 40px;
+    top: 2em;
+    border-radius: 50%;
+    position: fixed;
+    background-color: rgb(10, 177, 177);
+    animation: firstball 5s ease-in infinite alternate ;
+    opacity: 80%;
+    z-index: -1;
+}
+#c1{
+    margin-top: 9em;
+    background-color:rgb(133, 252, 252);
+    animation: firstball 5s 1s ease-in infinite alternate ;
+}
+#c2{
+    margin-top: 14em;
+    background-color:rgb(228, 248, 248);
+    animation: firstball 5s 2s ease-in infinite alternate ;
+}
+@keyframes firstball{
+    to{
+        margin-top:50em;
+        margin-left: 100%;
+    }
+}
+
+
+.circle2{
+    opacity: 80%;
+    height: 40px;
+    width: 40px;
+    top: 2em;
+    border-radius: 50%;
+    position: fixed;
+    right: 1em;
+    background-color: #B04860;
+    animation: firstballtwo 5s ease-in infinite alternate ;
+    z-index: -1;
+}
+
+#c5{
+    margin-top: 9em;
+    background-color:#d46f86 ;
+    animation: firstballtwo 5s 1s ease-in infinite alternate ;
+}
+#c6{
+    margin-top: 14em;
+    background-color:#e0abb7;
+    animation: firstballtwo 5s 2s ease-in infinite alternate ;
+}
+
+
+@keyframes firstballtwo{
+    to{
+        margin-top:50em;
+        margin-right: 100%;
+    }
+}
+</style>

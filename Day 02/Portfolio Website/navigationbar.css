@@ -1,0 +1,46 @@
+.navi{
+    /* background-color: rgb(133, 132, 132); */
+    height: 4em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    /* box-shadow: -5px 3px 11px rgb(0, 0, 0); */
+}
+.list a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 8px;
+}
+#logopng{
+    margin-left: 2em;
+    margin-right: 58em;
+    padding: 0.4em;
+    height: 2em;
+    width: 2em;
+    background-color: rgb(223, 206, 206);
+    border: 2px solid black;
+    box-shadow: 5px 5px 8px black;
+    border-radius: 50%;
+    transition: all 0.5s;
+}
+#logopng:hover{
+    border: 2px solid white;
+    background-color: rgb(158, 154, 154);
+    box-shadow: 5px 5px 8px whitesmoke;
+}
+
+.list{
+    display: inline;
+    color: rgb(0, 0, 0);
+    
+}
+
+.list a:hover{
+    border: 2px solid rgb(65, 64, 64);
+    border-radius: 1em;
+    background-color: rgb(39, 38, 38);
+    /* background-color: rgb(70, 69, 69); */
+    box-shadow: -2px 3px 20px rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+}

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radio Attribute in HTML</title>
+</head>
+<body>
+    <div>
+        <form action="/server">
+            <label for="age">
+                Are you 18+ ?
+                <br>
+                Yes
+                <input type="radio" id="yes" name="age" value="yes">
+                <br>
+                No
+                <input type="radio" id="no" name="age" value="no">
+            </label>
+            <button>Submit</button>
+        </form>
+    </div>
+    <br>
+
+    <div>
+        <form action="/server">
+            <!-- name should be the same to group radio elements . Else all radio buttons can be selected at once which is not to be made -->
+            <input type="radio" name="fruit" id="apple" value="apple">
+            <label for="apple">Apple</label>
+            <input type="radio" name="fruit" id="mango" value="mango">
+            <label for="mango">Mango</label>
+            <input type="radio" name="fruit" id="guava" value="guava">
+            <label for="guava">Guava</label>
+            <button>Submit</button>
+        </form>
+    </div>
+</body>
+</html>

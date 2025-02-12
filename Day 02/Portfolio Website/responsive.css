@@ -1,0 +1,139 @@
+@media (max-width: 1890px) and (min-width:1440px){
+
+#logopng{
+    margin-right: 30em;
+}
+
+#propic{
+    height: 170px;
+    width: 170px;
+}
+.h2cls{
+    margin-bottom: 2em;
+}
+
+#list4{
+    width: 80em;
+    height: 58em;
+}
+
+#intlist{
+    width: 80em;
+}
+/* #intlist .int1{
+} */
+.intlicls {
+    width: 30em;
+}
+.prosum{
+    margin: 1em;
+    width: 38em;
+    height: 40em;
+}
+#eduid{
+    margin: 8em 15em;
+    width: 40em;
+    margin-bottom: 1em;
+}
+.educa{
+    padding-left: 0%;
+}
+.project{
+    width: 65em;
+    padding: 2em;
+    height: fit-content;
+}
+.ulfoot{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    align-self: center;
+    justify-self: center;
+}
+.ulfoot li{
+    padding: 0.2em 1em;
+}
+
+
+}
+
+@media(max-width:1750px) and (min-width:1650px){
+    #logopng{
+        margin-right:42em;
+    }
+}
+@media(max-width:1890px) and (min-width:1750px){
+    #logopng{
+        margin-right:49em;
+    }
+}
+
+
+
+
+
+
+
+
+@media (max-width:2690px) and (min-width:1890px){
+
+#logopng{
+    margin-right:58em;
+}
+#prosumid{
+    width:106em;
+}
+#eduid {
+    width: 40em;
+    height: 50em;
+    margin: 0em 15em;
+}
+#list4{
+    margin: 3em 5em;
+}
+.prosum{
+    width: 50em;
+}
+.ulfoot{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    align-self: center;
+    justify-self: center;
+}
+.ulfoot li{
+    padding: 0.2em 1em;
+}
+}
+
+
+
+
+@media(max-width:2300px) and (min-width:2001px){
+    #logopng{
+        margin-right:65em;
+    }
+}
+
+
+@media(max-width:2500px) and (min-width:2301px){
+    #logopng{
+        margin-right:83em;
+    }
+    #list5in{
+        width: 79em;
+        padding: 5em;
+    }
+}
+
+@media(max-width:2685px) and (min-width:2501px){
+    #logopng{
+        margin-right:95em;
+    }
+    #list5in{
+        width: 91em;
+        padding: 5em;
+    }
+}
