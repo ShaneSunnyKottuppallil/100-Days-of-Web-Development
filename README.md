@@ -175,6 +175,37 @@
 - Setting `display: inline;` arranges them in a horizontal line instead of stacking vertically.  
 <br>  
 
+## Day 12 - CSS Effects and Transformations  
+
+### 🎨 Alpha Channel & Opacity  
+- RGBA (`rgba(r, g, b, a)`)  
+- HSLA (`hsla(h, s%, l%, a)`)  
+- `opacity` property  
+
+### 🎚️ Range Element Styling  
+- Customizing `<input type="range">`  
+
+### ✨ Transitions in CSS  
+- `transition-property`  
+- `transition-duration`  
+- `transition-timing-function`  
+- `transition-delay`  
+
+### 🔄 CSS Transform  
+- `rotate(deg)` → Rotates an element  
+- `scale(x, y)` → Resizes an element  
+- `translate(x, y)` → Moves an element  
+- `skew(x, y)` → Tilts an element  
+
+### 📦 Box Shadow  
+- `box-shadow: x-offset y-offset blur spread color;`  
+
+### 🖼️ Background Image Properties  
+- `background-size: contain;`  
+- `background-size: cover;`  
+- `background-size: auto;`  
+<br>  
+
 Stay tuned for more updates! 🚀  
 
  
