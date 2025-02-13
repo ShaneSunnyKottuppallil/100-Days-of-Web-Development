@@ -206,6 +206,16 @@
 - `background-size: auto;`  
 <br>  
 
+## Day 13 - CSS Positioning  
+
+### Position Property in CSS  
+- `position: static;` (Default position)  
+- `position: relative;` (Positioned relative to itself)  
+- `position: absolute;` (Positioned relative to the nearest positioned ancestor)  
+- `position: fixed;` (Positioned relative to the viewport)  
+<br>  
+
 Stay tuned for more updates! 🚀  
+
 
  
