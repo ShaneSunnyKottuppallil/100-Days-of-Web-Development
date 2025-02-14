@@ -215,7 +215,38 @@
 - `position: fixed;` (Positioned relative to the viewport)  
 <br>  
 
+## Day 14 - Flexbox in CSS  
+
+### Flexbox Basics  
+- Main Axis & Cross Axis  
+- `display: flex;` (Enables flexbox on a container)  
+- Direct Child Elements become Flex Items  
+<br>  
+
+### Flexbox Direction  
+- `flex-direction: row;` (Default - Left to Right)  
+- `flex-direction: column;` (Top to Bottom)  
+- `flex-direction: row-reverse;` (Right to Left)  
+- `flex-direction: column-reverse;` (Bottom to Top)  
+<br>  
+
+### Justify Content (Alignment on Main Axis)  
+- `justify-content: flex-start;` (Default - Items start from the left)  
+- `justify-content: flex-end;` (Items align to the right)  
+- `justify-content: center;` (Items align to the center)  
+- `justify-content: space-between;` (Equal space between items)  
+- `justify-content: space-around;` (Equal space around items)  
+- `justify-content: space-evenly;` (Even spacing between items)  
+<br>  
+
+### Flex Wrap  
+- `flex-wrap: nowrap;` (Default - Items remain in a single line)  
+- `flex-wrap: wrap;` (Items wrap to the next line if needed)  
+- `flex-wrap: wrap-reverse;` (Items wrap in reverse order)  
+<br>  
+
 Stay tuned for more updates! 🚀  
+  
 
 
  
