@@ -182,7 +182,7 @@
 - HSLA (`hsla(h, s%, l%, a)`)  
 - `opacity` property  
 
-### 🎚️ Range Element Styling  
+###  Range Element Styling  
 - Customizing `<input type="range">`  
 
 ###  Transitions in CSS  
