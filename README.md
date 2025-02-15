@@ -245,7 +245,43 @@
 - `flex-wrap: wrap-reverse;` (Items wrap in reverse order)  
 <br>  
 
+## Day 15 - Advanced Flexbox in CSS  
+
+### Aligning Items in Flexbox  
+- `align-items: flex-start;` (Align items at the start of the cross axis)  
+- `align-items: flex-end;` (Align items at the end of the cross axis)  
+- `align-items: center;` (Align items in the center of the cross axis)  
+- `align-items: baseline;` (Align items based on text baseline)  
+- `align-items: stretch;` (Default - Items stretch to fill container)  
+<br>  
+
+### Aligning Content in Flexbox  
+- `align-content: flex-start;` (Align multiple lines at the start)  
+- `align-content: flex-end;` (Align multiple lines at the end)  
+- `align-content: center;` (Align multiple lines at the center)  
+- `align-content: space-between;` (Equal space between rows)  
+- `align-content: space-around;` (Equal space around rows)  
+- `align-content: stretch;` (Default - Rows stretch to fill container)  
+<br>  
+
+### Aligning Individual Items  
+- `align-self: auto;` (Default - Inherits parent `align-items`)  
+- `align-self: flex-start;` (Aligns item to start of cross axis)  
+- `align-self: flex-end;` (Aligns item to end of cross axis)  
+- `align-self: center;` (Aligns item to center of cross axis)  
+- `align-self: baseline;` (Aligns item based on text baseline)  
+- `align-self: stretch;` (Stretches item to fill container)  
+<br>  
+
+### Flex Sizing  
+- `flex-grow: 1;` (Item grows to take available space)  
+- `flex-basis: auto;` (Defines the initial size of the item)  
+- `flex-shrink: 1;` (Item shrinks when necessary)  
+- `flex: grow shrink basis;` (Shorthand for flex sizing)  
+<br>  
+
 Stay tuned for more updates! 🚀  
+ 
   
 
 
