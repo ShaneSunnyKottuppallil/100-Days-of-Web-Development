@@ -177,30 +177,30 @@
 
 ## Day 12 - CSS Effects and Transformations  
 
-### 🎨 Alpha Channel & Opacity  
+###  Alpha Channel & Opacity  
 - RGBA (`rgba(r, g, b, a)`)  
 - HSLA (`hsla(h, s%, l%, a)`)  
 - `opacity` property  
 
-### 🎚️ Range Element Styling  
+###  Range Element Styling  
 - Customizing `<input type="range">`  
 
-### ✨ Transitions in CSS  
+###  Transitions in CSS  
 - `transition-property`  
 - `transition-duration`  
 - `transition-timing-function`  
 - `transition-delay`  
 
-### 🔄 CSS Transform  
+###  CSS Transform  
 - `rotate(deg)` → Rotates an element  
 - `scale(x, y)` → Resizes an element  
 - `translate(x, y)` → Moves an element  
 - `skew(x, y)` → Tilts an element  
 
-### 📦 Box Shadow  
+###  Box Shadow  
 - `box-shadow: x-offset y-offset blur spread color;`  
 
-### 🖼️ Background Image Properties  
+###  Background Image Properties  
 - `background-size: contain;`  
 - `background-size: cover;`  
 - `background-size: auto;`  
@@ -215,7 +215,74 @@
 - `position: fixed;` (Positioned relative to the viewport)  
 <br>  
 
+## Day 14 - Flexbox in CSS  
+
+### Flexbox Basics  
+- Main Axis & Cross Axis  
+- `display: flex;` (Enables flexbox on a container)  
+- Direct Child Elements become Flex Items  
+<br>  
+
+### Flexbox Direction  
+- `flex-direction: row;` (Default - Left to Right)  
+- `flex-direction: column;` (Top to Bottom)  
+- `flex-direction: row-reverse;` (Right to Left)  
+- `flex-direction: column-reverse;` (Bottom to Top)  
+<br>  
+
+### Justify Content (Alignment on Main Axis)  
+- `justify-content: flex-start;` (Default - Items start from the left)  
+- `justify-content: flex-end;` (Items align to the right)  
+- `justify-content: center;` (Items align to the center)  
+- `justify-content: space-between;` (Equal space between items)  
+- `justify-content: space-around;` (Equal space around items)  
+- `justify-content: space-evenly;` (Even spacing between items)  
+<br>  
+
+### Flex Wrap  
+- `flex-wrap: nowrap;` (Default - Items remain in a single line)  
+- `flex-wrap: wrap;` (Items wrap to the next line if needed)  
+- `flex-wrap: wrap-reverse;` (Items wrap in reverse order)  
+<br>  
+
+## Day 15 - Advanced Flexbox in CSS  
+
+### Aligning Items in Flexbox  
+- `align-items: flex-start;` (Align items at the start of the cross axis)  
+- `align-items: flex-end;` (Align items at the end of the cross axis)  
+- `align-items: center;` (Align items in the center of the cross axis)  
+- `align-items: baseline;` (Align items based on text baseline)  
+- `align-items: stretch;` (Default - Items stretch to fill container)  
+<br>  
+
+### Aligning Content in Flexbox  
+- `align-content: flex-start;` (Align multiple lines at the start)  
+- `align-content: flex-end;` (Align multiple lines at the end)  
+- `align-content: center;` (Align multiple lines at the center)  
+- `align-content: space-between;` (Equal space between rows)  
+- `align-content: space-around;` (Equal space around rows)  
+- `align-content: stretch;` (Default - Rows stretch to fill container)  
+<br>  
+
+### Aligning Individual Items  
+- `align-self: auto;` (Default - Inherits parent `align-items`)  
+- `align-self: flex-start;` (Aligns item to start of cross axis)  
+- `align-self: flex-end;` (Aligns item to end of cross axis)  
+- `align-self: center;` (Aligns item to center of cross axis)  
+- `align-self: baseline;` (Aligns item based on text baseline)  
+- `align-self: stretch;` (Stretches item to fill container)  
+<br>  
+
+### Flex Sizing  
+- `flex-grow: 1;` (Item grows to take available space)  
+- `flex-basis: auto;` (Defines the initial size of the item)  
+- `flex-shrink: 1;` (Item shrinks when necessary)  
+- `flex: grow shrink basis;` (Shorthand for flex sizing)  
+<br>  
+
 Stay tuned for more updates! 🚀  
+ 
+  
 
 
  
