@@ -280,7 +280,30 @@
 - `flex: grow shrink basis;` (Shorthand for flex sizing)  
 <br>  
 
+## Day 16 - CSS Grid  
+
+### CSS Grid Model  
+- A two-dimensional layout system for creating flexible and responsive web designs.  
+
+### Column Lines  
+- Defines the vertical divisions in a grid, helping with element alignment.  
+
+### Grid Template  
+- `grid-template-columns`: Defines the number and size of columns.  
+- `grid-template-rows`: Defines the number and size of rows.  
+
+### Repeat Function  
+- The `repeat(n, value)` function simplifies defining grid columns or rows.  
+
+### Grid Gaps  
+- Defines spacing between grid items.  
+  - `grid-gap`: Sets the overall gap between grid elements.  
+  - `row-gap`: Controls the vertical spacing.  
+  - `column-gap`: Controls the horizontal spacing.  
+<br>  
+
 Stay tuned for more updates! 🚀  
+
  
   
 
