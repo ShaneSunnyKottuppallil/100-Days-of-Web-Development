@@ -144,6 +144,25 @@
 - `inherit`, `initial`, and `unset` values to control inheritance behavior.  
 <br>
 
+## Day 10 - Box Model in CSS  
+
+### Box Model in CSS  
+The CSS Box Model is the fundamental concept that defines how elements are structured and spaced.  
+
+### Box Model Properties  
+- **Height (`height`)** - Defines the height of an element.  
+- **Width (`width`)** - Defines the width of an element.  
+- **Border (`border`)** - The outer edge of an element, defining its boundary.  
+- **Margin (`margin`)** - Space outside the border, creating separation between elements.  
+- **Padding (`padding`)** - Space between the content and the border of an element.  
+
+### Shorthand Properties  
+- **Padding Shorthand (`padding: top right bottom left;`)**  
+- **Margin Shorthand (`margin: top right bottom left;`)**  
+
+Understanding the Box Model is crucial for creating well-structured and responsive layouts in CSS.  
+
+<br> 
 
 ## Day 11 - CSS Display & Units  
 
@@ -280,7 +299,30 @@
 - `flex: grow shrink basis;` (Shorthand for flex sizing)  
 <br>  
 
+## Day 16 - CSS Grid  
+
+### CSS Grid Model  
+- A two-dimensional layout system for creating flexible and responsive web designs.  
+
+### Column Lines  
+- Defines the vertical divisions in a grid, helping with element alignment.  
+
+### Grid Template  
+- `grid-template-columns`: Defines the number and size of columns.  
+- `grid-template-rows`: Defines the number and size of rows.  
+
+### Repeat Function  
+- The `repeat(n, value)` function simplifies defining grid columns or rows.  
+
+### Grid Gaps  
+- Defines spacing between grid items.  
+  - `grid-gap`: Sets the overall gap between grid elements.  
+  - `row-gap`: Controls the vertical spacing.  
+  - `column-gap`: Controls the horizontal spacing.  
+<br>  
+
 Stay tuned for more updates! 🚀  
+
  
   
 
