@@ -3,16 +3,20 @@ console.log("Hello!");
 const nameof=()=>{
     console.log("Shane Sunny Kottuppallil");
 }
-setTimeout(nameof,2500);
+setTimeout(nameof,1750);
 
 const msg=()=>{
-    console.log("I will come ,wait for 2s and I will come  again.");
+    console.log("I will come ,wait for 2s and I will come  again. and I will stop after 10s");
 }
-// let id=setInterval(msg,3000);
+let id=setInterval(msg,2000);
 console.log("Welcome to");
 
 // To stop printing msg (To stop setInterval)
-// clearInterval(id);
+setTimeout(()=>{
+    clearInterval(id);
+    console.log("Interval Cleared after 10s");
+},10000);
+
 
 
 // "this" keyword in Normal Funtion and Arrow function 
