@@ -321,7 +321,42 @@ Understanding the Box Model is crucial for creating well-structured and responsi
   - `column-gap`: Controls the horizontal spacing.  
 <br>  
 
+## Day 17 - CSS Grid, Animations, Media Queries & Z-Index  
+
+### CSS Grid Advanced Properties  
+- **Grid Columns & Rows** – Defining structured grid layouts.  
+- **Common Grid Properties** – Organizing elements efficiently.  
+- **Justify & Align in Grid**  
+  - `justify-items` (Container)  
+  - `align-items` (Container)  
+  - `place-items` (Container)  
+  - `justify-self` (Item)  
+  - `align-self` (Item)  
+  - `place-self` (Item)  
+<br>  
+
+### CSS Animations  
+- `animation-name`  
+- `animation-duration`  
+- `animation-timing-function`  
+- `animation-delay`  
+- `animation-iteration-count`  
+- `animation-direction`  
+- **Animation Shorthand**  
+- **Percentage in Animations (Keyframes)**  
+<br>  
+
+### Media Queries & Responsive Design  
+- `@media` for responsive layouts  
+- Orientation control for different devices  
+<br>  
+
+### Z-Index in CSS  
+- Controlling the stacking order of overlapping elements using `z-index`.  
+<br>  
+
 Stay tuned for more updates! 🚀  
+ 
 
  
   
