@@ -355,7 +355,36 @@ Understanding the Box Model is crucial for creating well-structured and responsi
 - Controlling the stacking order of overlapping elements using `z-index`.  
 <br>  
 
+## Day 18 - Basic Design Principles  
+
+###  Color in Web Design  
+- Understanding **Primary, Secondary, and Tertiary Colors**  
+- Importance of **Color Psychology & Meaning**  
+- **Contrast & Accessibility** for better readability  
+- Common **Color Schemes**:  
+  - Monochrome  
+  - Complementary  
+  - Analogous  
+
+<br>  
+
+###  Typography in Web Design  
+- Different **Font Families**:  
+  - Serif  
+  - Sans-Serif  
+  - Monospace  
+- Key properties:  
+  - **Font Size**  
+  - **Line Height**  
+  - **Letter Spacing**  
+- Choosing fonts for **Branding & Readability**  
+
+<br>  
+
+Good design enhances user experience and engagement! 
+
 Stay tuned for more updates! 🚀  
+
  
 
  
