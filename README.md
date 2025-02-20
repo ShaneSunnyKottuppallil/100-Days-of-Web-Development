@@ -405,7 +405,7 @@ Forms allow users to enter and submit data on a webpage.
   - Reset: `<button type="reset">Reset</button>`  
 <br>  
 
-Mastering forms is essential for creating interactive and user-friendly web applications! 
+Mastering forms is essential for creating interactive and user-friendly web applications! <br>
 Stay tuned for more updates! 🚀  
 
 
