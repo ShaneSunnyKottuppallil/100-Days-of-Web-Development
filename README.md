@@ -406,6 +406,34 @@ Forms allow users to enter and submit data on a webpage.
 <br>  
 
 Mastering forms is essential for creating interactive and user-friendly web applications! <br>
+
+
+
+## Day 20 - Bootstrap  
+### Introduction to Bootstrap  
+Bootstrap is a front-end framework that simplifies web development by providing pre-styled components and a responsive grid system.  
+
+### Benefits of Bootstrap  
+- Faster development with ready-to-use components  
+- Mobile-first and responsive design  
+- Consistent styling across different screen sizes  
+- Customizable with CSS and JavaScript  
+
+### Bootstrap Components  
+- **Buttons**: Pre-styled buttons with different sizes and colors  
+- **Navbar**: Responsive navigation bar for easy site navigation  
+- **Cards**: Flexible containers for displaying text, images, and actions  
+- **Forms**: Pre-styled input fields, labels, and buttons for clean UI  
+
+### Bootstrap Layout & Colors  
+- **Layout**: Responsive grid system to structure content effectively  
+- **Button Colors**:  
+  - `primary`, `secondary`, `success`, `danger`, `info`, `light`, `dark`  
+- **Badges**: Small count indicators used for notifications  
+
+### Bootstrap CDN  
+Bootstrap can be included via **CDN (Content Delivery Network)** for quick integration without downloading files. <br>
+
 Stay tuned for more updates! 🚀  
 
 
