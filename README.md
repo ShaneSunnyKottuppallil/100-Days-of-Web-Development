@@ -434,6 +434,50 @@ Bootstrap is a front-end framework that simplifies web development by providing 
 ### Bootstrap CDN  
 Bootstrap can be included via **CDN (Content Delivery Network)** for quick integration without downloading files. <br>
 
+## Day 21 - Bootstrap Components  
+
+### Bootstrap Components Covered  
+- Alerts  
+- Button Group  
+- Navbar  
+- Card  
+- Grid System  
+- Checkbox and Radio Buttons  
+<br>  
+
+### Alerts  
+Bootstrap provides alert messages to display important notifications in different styles:  
+- Success  
+- Danger  
+- Warning  
+- Info  
+<br>  
+
+### Button Group  
+- Groups multiple buttons together for a structured layout.  
+- Useful for toolbars and grouped actions.  
+<br>  
+
+### Navbar  
+- A responsive and customizable navigation bar.  
+- Supports branding, navigation links, and dropdowns.  
+<br>  
+
+### Card  
+- A flexible content container for images, text, and buttons.  
+- Commonly used for product listings, profiles, and content previews.  
+<br>  
+
+### Grid System  
+- Based on flexbox, allows content to be arranged in rows and columns.  
+- Ensures responsive design for different screen sizes.  
+<br>  
+
+### Checkbox and Radio Buttons  
+- Bootstrap provides pre-styled checkboxes and radio buttons.  
+- Improves form design and usability.  
+<br>  
+
 Stay tuned for more updates! 🚀  
 
 
