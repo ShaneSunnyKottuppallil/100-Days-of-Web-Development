@@ -478,6 +478,31 @@ Bootstrap provides alert messages to display important notifications in differen
 - Improves form design and usability.  
 <br>  
 
+
+## Day 24 - Introduction to JavaScript  
+
+### Getting Started with JavaScript  
+- Using Console for debugging  
+- Understanding REPL (Read-Eval-Print Loop)  
+
+### Variables in JavaScript  
+- `var`, `let`, and `const`  
+
+### Data Types in JavaScript  
+
+#### Primitive Data Types  
+- **Number** – Represents numeric values.  
+- **Boolean** – Can be either `true` or `false`.  
+- **String** – Sequence of characters enclosed in quotes.  
+- **Undefined** – A variable declared but not assigned a value.  
+- **Null** – Represents an intentional absence of value.  
+- **BigInt** – Used for very large numbers beyond `Number` limits.  
+- **Symbol** – Unique and immutable values for object properties.  
+
+### `typeof` Function  
+- Used to check the data type of a variable dynamically.  <br>
+
+
 Stay tuned for more updates! 🚀  
 
 
