@@ -22,3 +22,5 @@ let btn3=document.querySelector('.button3');
 console.dir(btn3);
 btn3.addEventListener("click",helloalert);
 btn3.addEventListener("click",namealert);
+
+// Event Listeners for elements 
