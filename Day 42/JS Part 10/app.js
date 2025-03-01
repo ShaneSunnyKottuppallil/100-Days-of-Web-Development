@@ -24,3 +24,28 @@ btn3.addEventListener("click",helloalert);
 btn3.addEventListener("click",namealert);
 
 // Event Listeners for elements 
+let p=document.querySelector("p");
+p.addEventListener("click",()=>{
+    p.innerHTML="Hai I am Shane Sunny";
+})
+
+let div=document.querySelector("div");
+div.addEventListener("mouseenter",()=>{
+    div.style.borderRadius="50%";
+})
+
+let newbtn=document.querySelector(".button4");
+newbtn.addEventListener("click",function(){
+    console.log(this);
+    console.dir(this);
+})
+
+// Keyboard Events 
+let inp=document.querySelector("input");
+inp.addEventListener("keydown",function(){
+    console.log("Key was pressed");
+    console.log("Key= ",event.key);
+    console.log("Code= ",event.code);
+})
+
+//Form Events
