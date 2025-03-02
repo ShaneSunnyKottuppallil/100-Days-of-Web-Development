@@ -503,6 +503,55 @@ Bootstrap provides alert messages to display important notifications in differen
 - Used to check the data type of a variable dynamically.  <br>
 
 
+
+
+
+## Day 25 - JavaScript Operators, Variables, and Data Types  
+### Operators in JavaScript  
+JavaScript provides various operators to perform mathematical and logical operations.  
+#### Arithmetic Operators  
+- Addition (`+`)  
+- Subtraction (`-`)  
+- Multiplication (`*`)  
+- Division (`/`)  
+- Modulus (`%`)  
+- Exponentiation (`**`)  
+#### NaN (Not a Number) in JavaScript  
+- `NaN` represents an invalid number operation.  
+#### Operator Precedence  
+Defines the order in which operators are evaluated in an expression.  
+### Declaring Variables in JavaScript  
+JavaScript provides three ways to declare variables:  
+- `var` – Function-scoped, can be redeclared and reassigned.  
+- `let` – Block-scoped, can be reassigned but not redeclared.  
+- `const` – Block-scoped, cannot be reassigned or redeclared.  
+### Assignment Operators  
+- `=` Assign value  
+- `+=` Add and assign  
+- `-=` Subtract and assign  
+- `*=` Multiply and assign  
+- `/=` Divide and assign  
+- `%=` Modulus and assign  
+### Unary Operators  
+- Increment (`++`)  
+- Decrement (`--`)  
+### Identifiers & Naming Conventions  
+- Identifiers are names for variables and functions.  
+- **camelCase** is the preferred convention in JavaScript.  
+### Boolean in JavaScript  
+Boolean values represent `true` or `false`.  
+### TypeScript (Static Typing in JavaScript)  
+TypeScript adds **static typing** for better error detection and efficiency.  
+### Strings in JavaScript  
+- Strings are sequences of characters enclosed in quotes.  
+- **String Indices** – Each character in a string has an index (starting from `0`).  
+- **`length` Property** – Determines the number of characters in a string.  
+- **Concatenation** – Combining strings using `+` or `.concat()` method.  
+### Null & Undefined in JavaScript  
+- **`null`** – Represents an intentional absence of value.  
+- **`undefined`** – A variable that has been declared but not assigned a value.  <br>
+
+
 Stay tuned for more updates! 🚀  
 
 
