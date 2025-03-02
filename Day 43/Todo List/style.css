@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color: white;
+}
+ul{
+    text-decoration: none;
+    background-color: rgb(68, 68, 68);
+    width: 500px;
+    height: 300px;
+    justify-content: center;
+    list-style: none;
+    padding: 15px 0px;
+}
+li{
+    width: 400px;
+    height: 40px;
+    background-color: rgb(63, 62, 62);
+    color: aliceblue;
+    padding:0px 10px;
+    justify-self: center;
+    align-content: center;
+}
+
+.delete{
+    width: 25px;
+    height: 25px;
+    border: 0px;
+    border-radius: 50%;
+    margin:0px 10px;
+}
