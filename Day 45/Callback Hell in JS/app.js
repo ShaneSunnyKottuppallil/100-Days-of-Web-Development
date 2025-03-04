@@ -24,3 +24,4 @@ changeclr("red",1000,()=>{
 // setTimeout(function(){
 //     h1.style.color="green";
 // },3000);
+
