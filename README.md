@@ -552,6 +552,50 @@ TypeScript adds **static typing** for better error detection and efficiency.
 - **`undefined`** – A variable that has been declared but not assigned a value.  <br>
 
 
+## Day 26 - JavaScript Basics
+
+### Console Logging in JavaScript
+- `console.log()` is used to print messages, values, and variables in the browser console for debugging.
+
+### Linking JavaScript Files
+- External JavaScript files can be linked to an HTML file using the `<script>` tag.
+  ```html
+  <script src="script.js"></script>
+  ```
+
+### Template Literals
+- Introduced in ES6, template literals use backticks (`` ` ``) instead of quotes for multi-line strings and string interpolation.
+  ```js
+  let name = "John";
+  console.log(`Hello, ${name}!`);
+  ```
+
+---
+
+### More Operators in JavaScript
+#### Comparison Operators
+Used to compare values and return `true` or `false`.
+- `>` (Greater than)
+- `>=` (Greater than or equal to)
+- `<` (Less than)
+- `<=` (Less than or equal to)
+- `==` (Equal to, type coercion allowed)
+- `!=` (Not equal to, type coercion allowed)
+
+### ASCII Values in JavaScript
+- JavaScript allows checking the ASCII value of characters using `charCodeAt()`.
+  ```js
+  console.log("A".charCodeAt(0)); // Output: 65
+  ```
+
+### Comparison for Non-Numbers
+- JavaScript allows comparison of strings based on **lexicographic order (dictionary order)**.
+  ```js
+  console.log("apple" > "banana"); // false
+  ```
+- `null` and `undefined` have unique behaviors in comparisons. <br>
+
+
 Stay tuned for more updates! 🚀  
 
 
