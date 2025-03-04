@@ -596,6 +596,38 @@ Used to compare values and return `true` or `false`.
 - `null` and `undefined` have unique behaviors in comparisons. <br>
 
 
+
+## Day 27 - Conditional Statements & Logical Operators in JavaScript  
+
+### Conditional Statements  
+- **if-else**: Executes different blocks of code based on conditions.  
+- **Nested if-else**: Using multiple if-else statements within each other for complex logic.  
+- **Switch Statement**: A structured way to handle multiple possible values for a variable.  
+<br>  
+
+### Logical Operators  
+- **&& (AND)**: Returns `true` if both conditions are true.  
+- **|| (OR)**: Returns `true` if at least one condition is true.  
+- **! (NOT)**: Reverses the truthiness of a condition.  
+<br>  
+
+### Truthy & Falsy Values  
+Falsy values in JavaScript:  
+- `false`  
+- `0`  
+- `""` (empty string)  
+- `null`  
+- `undefined`  
+- `NaN`  
+
+Everything else is considered **truthy**!  
+<br>  
+
+### Alerts & Prompts  
+- **alert()**: Displays a pop-up message.  
+- **prompt()**: Takes user input via a pop-up box.  
+<br>  
+
 Stay tuned for more updates! 🚀  
 
 
