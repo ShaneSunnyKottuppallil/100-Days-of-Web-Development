@@ -655,6 +655,24 @@ A **constant array** (`const`) means the reference cannot be reassigned, but the
 ### Nested Arrays  
 Arrays can contain other arrays, creating **multi-dimensional arrays**.  <br>
 
+## Day 30 - Loops in JavaScript  
+
+### For Loop  
+- A `for` loop runs a block of code **a specific number of times**.  
+- It consists of three parts: **initialization, condition, and increment/decrement**.  
+<br>  
+
+### Nested For Loops  
+- A loop inside another loop is called a **nested loop**.  
+- The inner loop runs **completely** for each iteration of the outer loop.  
+<br>  
+
+### Infinite Loops  
+- An infinite loop **never stops running**, which can crash the program.  
+- This happens when the loop condition **never becomes false**.  
+<br>  
+
+Mastering loops is crucial for handling repetitive tasks efficiently in JavaScript!  <br>
 
 
 Stay tuned for more updates! 🚀  
