@@ -80,7 +80,7 @@ console.log(newarr);
 console.log(newarr.reverse().indexOf("javascript")); 
 console.log(newarr);
 
-// Array References 
+// Array References .
 console.log([1]==[1]);
 console.log([1]==[1]);
 
