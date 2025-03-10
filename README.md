@@ -628,6 +628,35 @@ Everything else is considered **truthy**!
 - **prompt()**: Takes user input via a pop-up box.  
 <br>  
 
+## Day 29 - JavaScript Arrays & Methods  
+
+### Arrays in JavaScript  
+An **array** is a data structure used to store multiple values in a single variable. Arrays in JavaScript can contain different data types and are zero-indexed.  
+
+### Array Methods  
+
+- **`push()`** - Add an element to the end of an array  
+- **`pop()`** - Remove the last element from an array  
+- **`unshift()`** - Add an element to the beginning of an array  
+- **`shift()`** - Remove the first element from an array  
+- **`indexOf()`** - Find the index of an element  
+- **`includes()`** - Check if an element exists in an array  
+- **`concat()`** - Merge two arrays  
+- **`reverse()`** - Reverse the array order  
+- **`slice()`** - Extract a portion of an array (does not modify the original)  
+- **`splice()`** - Add/remove elements at a specific index (modifies the original array)  
+- **`sort()`** - Sorts an array alphabetically (for numbers, it needs a compare function)  
+
+### Array References & Constant Arrays  
+Arrays are **reference types** in JavaScript, meaning they store references to memory locations instead of actual values.  
+
+A **constant array** (`const`) means the reference cannot be reassigned, but the array contents can still be modified.  
+
+### Nested Arrays  
+Arrays can contain other arrays, creating **multi-dimensional arrays**.  <br>
+
+
+
 Stay tuned for more updates! 🚀  
 
 
