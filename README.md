@@ -674,6 +674,48 @@ Arrays can contain other arrays, creating **multi-dimensional arrays**.  <br>
 
 Mastering loops is crucial for handling repetitive tasks efficiently in JavaScript!  <br>
 
+## Day 31 - Loops & To-Do List in JavaScript  
+
+### While Loop  
+- Executes a block of code **while** a specified condition is `true`.  
+- Useful when the number of iterations is unknown beforehand.  
+<br>  
+
+### Break Keyword  
+- Exits a loop immediately when a certain condition is met.  
+- Helps optimize performance by stopping unnecessary iterations.  
+<br>  
+
+### Loops with Arrays  
+- Iterating through arrays efficiently using loops.  
+- Essential for processing multiple data elements.  
+<br>  
+
+### Nested Loops with Nested Arrays  
+- Using loops inside loops to handle **multi-dimensional arrays**.  
+- Commonly used in **matrix operations, grids, and nested data structures**.  
+<br>  
+
+### For-of Loop  
+- A cleaner and more readable way to iterate over arrays.  
+- Recommended for working with array elements directly.  
+<br>  
+
+### Nested For-of Loop  
+- Iterating over **nested arrays** using `for-of` loops.  
+- Useful for handling **multi-dimensional data**.  
+<br>  
+
+### To-Do List in JavaScript  
+- Implemented a **simple to-do list** using loops and user input.  
+- Features:  
+  - **list**: Displays all tasks.  
+  - **add**: Adds a new task to the list.  
+  - **delete**: Removes a task by index.  
+  - **quit**: Exits the program.  
+<br>  
+
+
 
 Stay tuned for more updates! 🚀  
 

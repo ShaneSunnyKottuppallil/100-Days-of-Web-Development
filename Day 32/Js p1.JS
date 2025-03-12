@@ -53,6 +53,7 @@ student.gender="Male";
 student.marks='A';
 console.log(student);
 
+// Delete Values from Object Literals 
 delete student.age;
 console.log(student);
 
