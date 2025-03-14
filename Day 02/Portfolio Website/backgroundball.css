@@ -18,7 +18,7 @@
 }
 #c3{
     margin-top: 14em;
-    background-color:rgb(228, 248, 248);
+    background-color:rgb(78, 78, 78);
     animation: firstball 5s 3s ease-in infinite alternate ;
 }
 @keyframes firstball{

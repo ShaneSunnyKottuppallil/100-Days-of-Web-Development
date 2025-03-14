@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram EJS</title>
+</head>
+<body>
+    <h1>Hello Your Username is @<%= username.toLowerCase() %></h1>
+    <button>Follow</button>
+    <button>Message</button>
+    
+    <h3>Followers List</h3>
+    <ul>
+        <%for(name of followers){%>
+            <li><%= name.toUpperCase() %></li>
+        <%}%>
+    </ul>
+    
+</body>
+</html>
