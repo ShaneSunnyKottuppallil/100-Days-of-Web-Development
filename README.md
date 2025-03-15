@@ -714,6 +714,41 @@ Mastering loops is crucial for handling repetitive tasks efficiently in JavaScri
   - **delete**: Removes a task by index.  
   - **quit**: Exits the program.  
 <br>  
+## Day 33 - Nested Objects, Array of Objects & Math Object in JavaScript  
+
+### Nested Objects (Object of Objects)  
+- A **nested object** is an object inside another object.  
+- It helps in organizing data hierarchically.  
+- We can access nested properties using dot notation.  
+
+### Array of Objects  
+- An **array of objects** stores multiple objects within a single array.  
+- Useful for managing structured data like a list of users or products.  
+- Each object inside the array can have its own set of key-value pairs.  
+
+### Math Object in JavaScript  
+- The **Math object** provides built-in mathematical constants and functions.  
+- Some important methods:  
+  - `Math.PI` – Returns π (3.14159…)  
+  - `Math.abs(x)` – Absolute value of `x`  
+  - `Math.pow(x, y)` – `x` raised to the power `y`  
+  - `Math.sqrt(x)` – Square root of `x`  
+  - `Math.round(x)` – Rounds `x` to the nearest integer  
+  - `Math.floor(x)` – Rounds `x` down to the nearest integer  
+  - `Math.ceil(x)` – Rounds `x` up to the nearest integer  
+
+### Generating Random Integers  
+- We can use `Math.random()` with `Math.floor()` to generate random numbers in a range.  <br>
+
+## Day 34 - Functions in JavaScript  
+
+### 📌 Function Definition  
+A function is a reusable block of code that performs a specific task.  
+### 📌 Function with Arguments  
+Functions can take parameters to make them more dynamic and reusable.  
+### 📌 Return Statement  
+The `return` statement is used to return a value from a function and stop its execution.  
+<br>
 
 
 

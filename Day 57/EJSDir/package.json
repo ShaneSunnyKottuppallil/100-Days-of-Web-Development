@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "ejs": "^3.1.10",
+    "ejsdir": "file:",
     "express": "^4.21.2"
   }
 }

@@ -1,0 +1,19 @@
+body {
+    background-color: pink;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+p {
+    margin: 10px;
+}
