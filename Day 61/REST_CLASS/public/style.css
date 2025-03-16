@@ -1,0 +1,15 @@
+body{
+    color: white;
+    background-color: black;
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+.user{
+    font-style: italic;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: whitesmoke;
+}
