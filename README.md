@@ -751,6 +751,27 @@ The `return` statement is used to return a value from a function and stop its ex
 <br>
 
 
+## Day 35 - Scope & Higher-Order Functions in JavaScript  
+
+### Scope in JavaScript  
+- **Functional Scope** – Variables declared inside a function are accessible only within that function.  
+- **Block Scope** – Variables declared with `let` and `const` exist only within their block `{}`.  
+- **Lexical Scope** – Functions have access to variables defined in their parent scope.  
+
+<br>  
+
+### Function Expressions  
+- Functions can be stored in variables and passed around like any other value.  
+
+### Higher-Order Functions  
+A function that:  
+- **Takes one or more functions as arguments**  
+- **Returns a function**  
+
+### Methods in JavaScript  
+- A **method** is a function that belongs to an object.  <br>
+
+
 
 Stay tuned for more updates! 🚀  
 
