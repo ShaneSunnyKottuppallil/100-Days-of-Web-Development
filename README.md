@@ -713,7 +713,9 @@ Mastering loops is crucial for handling repetitive tasks efficiently in JavaScri
   - **add**: Adds a new task to the list.  
   - **delete**: Removes a task by index.  
   - **quit**: Exits the program.  
+ 
 <br>  
+
 ## Day 33 - Nested Objects, Array of Objects & Math Object in JavaScript  
 
 ### Nested Objects (Object of Objects)  
