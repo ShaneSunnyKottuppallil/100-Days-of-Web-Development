@@ -773,32 +773,6 @@ A function that:
 
 
 
-## Day 36 - Understanding `this`, Error Handling & Arrow Functions in JavaScript  
-
-### `this` Keyword  
-- Refers to the object that is executing the function.  
-- In **regular functions**, `this` depends on how the function is called.  
-- In **arrow functions**, `this` is lexically bound (inherits from the surrounding scope).  
-<br>  
-
-### Error Handling (`try...catch`)  
-- Prevents crashes by catching runtime errors and executing alternative code.  
-- `try` block contains the code that might throw an error.  
-- `catch` block executes if an error occurs.  
-<br>  
-
-### Arrow Functions  
-- Provides a **shorter syntax** for writing functions.  
-- Does **not bind `this`**, making it useful in certain contexts.  
-<br>  
-
-### Implicit Return  
-- If a function has only **one expression**, `{}` and `return` can be omitted.  
-- Makes code more concise and readable.  
-<br>  
-
-
-
 Stay tuned for more updates! 🚀  
 
 
