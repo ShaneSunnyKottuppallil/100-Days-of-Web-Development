@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "sqlclass",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
-    "backend": "file:",
+    "@faker-js/faker": "^9.6.0",
     "ejs": "^3.1.10",
-    "express": "^4.21.2"
-  }
+    "express": "^4.21.2",
+    "method-override": "^3.0.0",
+    "mysql2": "^3.13.0",
+    "sqlclass": "file:",
+    "uuid": "^11.1.0"
+  },
+  "description": ""
 }

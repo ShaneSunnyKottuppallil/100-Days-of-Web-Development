@@ -774,6 +774,21 @@ A function that:
 - A **method** is a function that belongs to an object.  <br>
 
 
+## Day 37 - Timing Functions in JavaScript  
+
+### `setTimeout()` – Delayed Execution  
+- Executes a function **after a specified time** (in milliseconds).  
+- Useful for **delayed actions, pop-ups, or timed events**.  
+
+### `setInterval()` – Repeated Execution  
+- Executes a function **at fixed intervals** until stopped.  
+- Commonly used for **real-time clocks, auto-refreshing content, and animations**.  
+
+### `this` Keyword with Arrow Functions  
+- **Regular functions**: `this` refers to the calling object.  
+- **Arrow functions**: `this` is **lexically bound** (inherits `this` from its surrounding scope).<br>
+
+
 
 Stay tuned for more updates! 🚀  
 
